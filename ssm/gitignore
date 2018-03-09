@@ -1,0 +1,16 @@
+/target/
+.gitignore
+.classpath
+.project
+.settings
+.tern-project
+/.idea
+*.iml
+*.ipr
+*.iws
+.idea
+*/*.log
+*.DS_Store
+test/
+target/
+*.class

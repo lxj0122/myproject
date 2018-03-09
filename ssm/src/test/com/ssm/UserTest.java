@@ -1,6 +1,6 @@
 package com.ssm;
 
-import com.ssm.entity.User;
+import com.ssm.entity.user.User;
 import com.ssm.mapper.UserMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;
